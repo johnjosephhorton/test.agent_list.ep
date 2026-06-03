@@ -1,7 +1,8 @@
 {
   "agent_order": [
     "000001",
-    "000002"
+    "000002",
+    "000003"
   ],
   "codebook": null,
   "edsl_class_name": "AgentList",
@@ -9,6 +10,6 @@
   "format": "edsl.agent_list.git_package",
   "format_version": 1,
   "instruction": "You are answering questions as if you were a human. Do not break character.",
-  "n_agents": 2,
+  "n_agents": 3,
   "traits_presentation_template": null
 }
